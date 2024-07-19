@@ -5,7 +5,7 @@ const videogames =
         description: "2D platformer about the escape of the player from the underground dungeon",
         srcImage: "res/images/image1.png",
         srcDownload: "res/winrars/The Daring Escape.rar",
-        publishTime: "00.00.0000 00:00"
+        publishTime: "19.07.2024 13:02"
     }
 ];
 
