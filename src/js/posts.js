@@ -2,7 +2,7 @@ const posts =
 [
     {
         postContent: "Hello",
-        publishTime: ""
+        publishTime: "19.07.2024 13:02"
     }
 ];
 
