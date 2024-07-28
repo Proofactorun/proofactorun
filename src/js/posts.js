@@ -7,6 +7,10 @@ const posts =
     {
         postContent: "<center><h2>The Daring Escape</h2><br />2D platformer about the escape of the player from the underground dungeon<br /><br /><br /><br /><br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PrfgzEYpEbQ?si=7xRh_udElMgxsX36\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><br /><br /><br /><br /><h2>Download <a href=\"videogames.html\">here</a></h2></center>",
         publishTime: "20.07.2024 15:25"
+    },
+    {
+        postContent: "<center><h2>Battle For Space</h2><br />2D action about a space battle between spaceships<br /><br /><br /><br /><br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pvsFvbu2Spw?si=66O4_D5D76Ozc5yn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><br /><br /><br /><br /><h2>Download <a href=\"videogames.html\">here</a></h2></center>",
+        publishTime: "28.07.2024 15:35"
     }
 ];
 
