@@ -6,6 +6,13 @@ const videogames =
         srcImage: "res/images/image1.png",
         srcDownload: "res/winrars/The Daring Escape.rar",
         publishTime: "20.07.2024 7:42"
+    },
+    {
+        title: "Battle For Space",
+        description: "2D action about a space battle between spaceships",
+        srcImage: "res/images/image2.png",
+        srcDownload: "res/winrars/Battle For Space.rar",
+        publishTime: "28.07.2024 15:04"
     }
 ];
 
